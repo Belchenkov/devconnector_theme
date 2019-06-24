@@ -1,0 +1,24 @@
+{
+  "name": "devconnector_theme",
+  "version": "1.0.0",
+  "description": "### Create the landing page with navigation, image overlay, Sass variables, mixins and functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss --o dist/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belchenkov/devconnector_theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belchenkov/devconnector_theme/issues"
+  },
+  "homepage": "https://github.com/Belchenkov/devconnector_theme#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
